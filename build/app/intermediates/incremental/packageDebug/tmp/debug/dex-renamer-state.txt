@@ -1,0 +1,4 @@
+#Tue Nov 29 15:33:14 GMT+02:00 2022
+base.0=/home/janus/personal/UCU/4_year/Flutter_Dart/flutter-homeworks/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
