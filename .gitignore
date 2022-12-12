@@ -1,2 +1,7 @@
-build/
-.dart_tool/
+pubspec.lock
+android
+build
+ios
+.dart_tool
+macos
+
