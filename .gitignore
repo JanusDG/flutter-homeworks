@@ -4,4 +4,7 @@ build
 ios
 .dart_tool
 macos
-
+linux
+test 
+web
+windows
