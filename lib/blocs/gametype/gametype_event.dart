@@ -5,6 +5,4 @@ class GameTypeEvent extends Equatable {
   List<Object?> get props => [];
 }
 
-class SelectTimeGameTypeEvent extends GameTypeEvent {}
-
-class SelectMovesGameTypeEvent extends GameTypeEvent {}
+class ChangeGameTypeEvent extends GameTypeEvent {}

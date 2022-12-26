@@ -1,16 +1,16 @@
 // import 'package:flutter/widgets.dart';
 
-class PlayCard {
+class CardBrains {
   bool isFlippedUp = false;
   bool isMatched = false;
   late final dynamic content;
   late final int index;
 
-  PlayCard(this.content, this.index);
+  CardBrains(this.content, this.index);
 
   void flip() {
     isFlippedUp = !isFlippedUp;
   }
 
-  bool isSame(PlayCard otherCard) =>this.content == otherCard.content;
+  bool isSame(CardBrains otherCard) => content == otherCard.content;
 }
